@@ -49,7 +49,6 @@ const Navbar = () => {
         <a className="btn btn-ghost text-xl w-[20%]">
           <Lottie animationData={groovyWalkAnimation} loop={true} />
         </a>
-        <span className="text-green-500">Recicle World </span>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu text-black menu-horizontal px-1">
