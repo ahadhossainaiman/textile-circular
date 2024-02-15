@@ -4,11 +4,11 @@ const ContactUs = () => {
   return (
     <div className="relative">
       <img
-        src="https://images.pexels.com/photos/3228766/pexels-photo-3228766.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+        src="https://i.ibb.co/wWJv6D6/rrr.webp"
         className="absolute inset-0 object-cover w-full h-full"
         alt=""
       />
-      <div className="relative bg-opacity-75 bg-purple-700">
+      <div className="relative bg-opacity-75 bg-purple-600">
         <svg
           className="absolute inset-x-0 bottom-0 text-white"
           viewBox="0 0 1160 163"

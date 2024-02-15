@@ -3,11 +3,11 @@ import React from "react";
 const GlobalWaste = () => {
   return (
     <div className="my-24">
-      <div className="grid grid-cols-3 mx-12 gap-16">
-        <div className="rounded-md object-contain">
+      <div className="grid lg:grid-cols-3 mx-12 gap-16">
+        <div className="rounded-md flex items-center">
           <img
             className="rounded-lg border-red-300 border-2"
-            src="https://i.ibb.co/Brjpx64/global-textile-waste-infographic.png"
+            src="https://i.ibb.co/KwMtRMJ/original.png"
             alt=""
           />
         </div>

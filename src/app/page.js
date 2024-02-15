@@ -7,18 +7,18 @@ import CardSection from "./components/Ui/CardSection/CardSection";
 import GlobalWaste from "./components/Ui/GlobalWaste/GlobalWaste";
 import PieChartSection from "./components/Ui/Graph/PieChartSection";
 import GlobalTextileWaste from "./components/Ui/GlobalTextileWaste/GlobalTextileWaste";
-
+import RecycleDetailsSection from "./components/Ui/RecycleDetailsSection/RecycleDetailsSection";
 
 export default function Home() {
   return (
     <main className="">
       <div className="w-[100%]">
         <HeroSection />
-        <GlobalWaste/>
-        <div className="w-100vh">
-         <GlobalTextileWaste/>
-      <PieChartSection/>
-        </div>
+        <GlobalWaste />
+        <GlobalTextileWaste />
+        <PieChartSection />
+
+   <RecycleDetailsSection/>
         <CardSection />
         <Gallery />
         <ContactUs />

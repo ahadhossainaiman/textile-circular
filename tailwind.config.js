@@ -24,6 +24,9 @@ module.exports = {
         "100%": { left: "125%" },
       },
     },
+    listStyleImage: {
+      checkmark: 'url("https://i.ibb.co/GFsWrGV/Capture22.png")',
+    },
     
   },
   plugins: [require("daisyui")],

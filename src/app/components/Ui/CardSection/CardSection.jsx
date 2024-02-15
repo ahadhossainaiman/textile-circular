@@ -7,7 +7,7 @@ const CardSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 sm:grid-cols-2 gap-10">
           <div className="border-r border-b border-l border-gray-400 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r flex flex-col justify-between leading-normal">
             <img
-              src="https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500"
+              src="https://i.ibb.co/BLFcKnV/Reuse.jpg"
               className="w-full mb-3"
             />
             <div className="p-4 pt-2">
